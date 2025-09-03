@@ -1,0 +1,6 @@
+
+http://127.0.0.1/cafe/index.php/admin
+user: admin
+pass: admin@123#
+
+
